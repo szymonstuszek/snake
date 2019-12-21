@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4636459-8477-4ef3-9753-e2f455b10da8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/Commons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/snake/main/Commons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/Directions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/snake/main/Directions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/snake/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/Obstacles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/snake/main/Obstacles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/snake/main/Snake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/SnakeAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/snake/main/SnakeAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/SnakeFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/snake/main/SnakeFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/SnakeGraphics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/snake/main/SnakeGraphics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/SnakeMovement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/snake/main/SnakeMovement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/apple.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/graphics/apple.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/dot.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/graphics/dot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/head.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/graphics/head.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -120,7 +107,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -181,7 +168,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576908673161" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576909319364" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -235,12 +222,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576907567579</updated>
-      <workItem from="1576907570246" duration="1092000" />
+      <workItem from="1576907570246" duration="1734000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1092000" />
+    <option name="totallyTimeSpent" value="1734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -250,13 +237,13 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
