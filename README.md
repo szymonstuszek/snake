@@ -7,7 +7,6 @@ With each apple the snake grows longer,
 be careful not to hit any obstacles!
 
 ![alt text](https://github.com/szymonstuszek/snake/blob/master/src/main/resources/screens/snake2.PNG)
-![alt text](https://github.com/szymonstuszek/snake/blob/master/src/main/resources/screens/snake3.PNG)
 ![alt text](https://github.com/szymonstuszek/snake/blob/master/src/main/resources/screens/snake4.PNG)
 
 ## Used technologies:
