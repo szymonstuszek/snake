@@ -6,6 +6,8 @@ Move the snake around the map and help him find apples.
 With each apple the snake grows longer,
 be careful not to hit any obstacles!
 
+![alt text](https://github.com/szymonstuszek/javafx-sudoku/blob/master/sudoku.PNG)
+
 ## Used technologies:
 - Java 8
 - Maven
