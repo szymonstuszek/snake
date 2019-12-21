@@ -1,6 +1,17 @@
-# snake
-Snake game - based on code from zetcode.com
+# Snake
+Snake game implementation in java.
 
-Implemented an enum with directions,
-the snake can cross the borders of the map,
-added obstacles
+One of the most classic games ever made.
+Move the snake around the map and help him find apples.
+With each apple the snake grows longer,
+be careful not to hit any obstacles!
+
+## Used technologies:
+- Java 8
+- Maven
+
+Can be build with maven:
+mvn clean install
+
+Credits to:
+zetcode.com
