@@ -6,6 +6,10 @@ Move the snake around the map and help him find apples.
 With each apple the snake grows longer,
 be careful not to hit any obstacles!
 
+## Used technologies:
+- Java 8
+- Maven
+
 Can be build with maven:
 mvn clean install
 
